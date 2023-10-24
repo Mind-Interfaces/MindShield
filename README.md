@@ -15,7 +15,7 @@ An AI-Assisted Firewall for Cognitive Integrity.
 - **Gap Analysis**: There is a lack of tools aimed specifically at protecting users from manipulative or emotionally charged content.
 - **Transparency Factor**: TruLens-Explain will provide users with the rationale behind the filtering decisions, offering transparency and control.
 
-##### Why It Has Potential
+##### Where It Has Potential
 - **Real-world Relevance**: The pervasive influence of toxic and manipulative content is a pressing issue in today's digital landscape.
 - **Tool Efficacy**: The project aims to fully utilize TruLens and TruEra for real-time evaluation and fine-tuning.
 - **Performance Metrics**: Success would be evaluated based on user satisfaction and the ability to accurately filter and explain problematic content in real-time.
