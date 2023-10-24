@@ -3,8 +3,6 @@ An AI-Assisted Firewall for Cognitive Integrity.
 
 ---
 
-#### Core Hackathon Entry Rubric
-
 ##### Overview
 - **Problem Statement**: Address the issue of cognitive manipulation and the algorithmic promotion of toxicity in social media and other digital platforms.
 - **Tool Utilization**: Employ TruLens-Eval for real-time evaluation of content and TruLens-Explain to provide insight into why certain content is deemed manipulative or toxic. Use TruEra for fine-tuning and ensuring the model performs at its peak capabilities.
