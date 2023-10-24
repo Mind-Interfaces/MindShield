@@ -1,5 +1,5 @@
-### Project Concept: MindShield
-#### An AI-Assisted Firewall for Cognitive Integrity
+# MindShield
+An AI-Assisted Firewall for Cognitive Integrity.
 
 ---
 
