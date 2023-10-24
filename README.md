@@ -22,4 +22,4 @@ An AI-Assisted Firewall for Cognitive Integrity.
 
 ---
 
-MindShield aims to offer users a protective layer against the cognitive hazards of the digital world, from outrage mobs to manipulative bots. By providing both a real-time filter and transparent explanations for its actions, it addresses several of the concerns raised in the dialogue, making it a relevant and potentially impactful project.
+MindShield aims to offer users a protective layer against the cognitive hazards of the digital world, from outrage mobs to manipulative bots. By providing both a real-time filter and transparent explanations for its actions, it addresses many of the concerns faced online, making it a relevant and potentially impactful project.
