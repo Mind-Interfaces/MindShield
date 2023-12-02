@@ -1,7 +1,10 @@
 ```mermaid
-flowchart LR;
-    subgraph MINDSHIELD_TEAM["MINDSHIELD TEAM"];
+graph TD;
+
+    subgraph MIND_INTERFACES["MINDSHIELD TEAM"];
+
     direction TB;
+
         George_Hotz[("George Hotz\nProject Manager & Cybersecurity Expert\n(Prospective Member)")];
         Dina_Shall[("Dina Shall\nCommunity Manager & Coordinator")];
         William_Burns[("William Burns\nAI & Machine Learning Expert")];
@@ -14,10 +17,6 @@ flowchart LR;
         William_Burns -->|Oversees| Mike_DuPont;
         Mike_DuPont -->|Interacts with| Unknown1;
         Unknown1 -->|Works alongside| Fran_Abenza;
-    end;
 
-    classDef default fill:#f9f,stroke:#333,stroke-width:2px;
-    classDef unknown fill:#fff,stroke:#f66,stroke-width:2px,stroke-dasharray: 5 5;
-    class William_Burns,Dina_Shall,George_Hotz,Mike_DuPont,Fran_Abenza default;
-    class Unknown1 unknown;
+    end;
 ```
